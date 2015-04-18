@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 When you inicialize a repository the files there are untraked. Because it is the first step before you create a commit
+
+How is the staging area different from the working directory and the repository? What value do you think it offers? 
+It is an intermediate state. Offers the value of more control

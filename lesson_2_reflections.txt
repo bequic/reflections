@@ -3,3 +3,7 @@ When you inicialize a repository the files there are untraked. Because it is the
 
 How is the staging area different from the working directory and the repository? What value do you think it offers? 
 It is an intermediate state. Offers the value of more control
+
+How can you use the staging area to make sure you have one commit per logical change?
+You add in the staging area all files involved, and all of them will be inside the same commit
+

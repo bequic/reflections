@@ -13,4 +13,8 @@ When you want to make experiments or language versions of your program, keeping 
 How do the diagrams help you visualize the branch structure?
 They help me for understand reachability concept
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a union between them, resulting only one branch. We represent like this beacause the new commit have 2 fathers, it have the changes of both.
+
 

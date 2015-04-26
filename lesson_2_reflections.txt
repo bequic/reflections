@@ -17,4 +17,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result is a union between them, resulting only one branch. We represent like this beacause the new commit have 2 fathers, it have the changes of both.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros of automatic merging is that is faster than manually. The cons of automatic merging is that sometimes find conflicts that you have to solve manually
+
 

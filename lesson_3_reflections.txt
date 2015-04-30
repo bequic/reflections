@@ -23,7 +23,8 @@ The benefit is that if your local state is different from the remote state, you 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+it would be harder controlling changes and it would be easier if everyone works in a different part, so without commits, merge etc, it would be faster, but if some problem appears
+then it would be slower, so without github is there more risk.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?

@@ -29,4 +29,5 @@ then it would be slower, so without github is there more risk.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+I would make changes in a separate branch when I would work in collaboration with other people, and the boss has to check the changes before adding to the master branch.
+The benefit is more control on the hole project.
